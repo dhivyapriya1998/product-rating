@@ -1,0 +1,10 @@
+.selected::before {
+    font-size: 30px;
+    content: "★";
+    color: goldenrod;
+}
+
+.not-selected::before {
+    font-size: 30px;
+    content: "☆"
+}
